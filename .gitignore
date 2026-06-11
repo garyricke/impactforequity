@@ -5,3 +5,7 @@
 .env
 .env.*
 !.env.example
+
+# images hosted on Cloudinary (kept locally as backups, not committed)
+assets/screens/*.webp
+assets/impact-for-equity-lrg.webp
